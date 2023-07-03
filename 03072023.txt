@@ -1,0 +1,29 @@
+a=int(input("enter a value")) 
+
+if a%2==0:
+   
+ print("even number")
+
+else:
+   
+ print("odd number")
+ 
+
+
+a=int(input("enter avalue"))
+
+b=int(input("enter b value"))
+
+c= int(input("enter c value"))
+
+if a>b and a>c:
+    
+ print("a is greater value") 
+
+elif b>c:
+    
+ print("b is greater value")
+
+else:
+    
+ print(" c is greater value")   
